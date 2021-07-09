@@ -1,0 +1,10 @@
+/*-------- Products ---------*/
+.products-main {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  width: 60%;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 1em;
+}
