@@ -1,0 +1,45 @@
+const data = {
+  products: [
+    {
+      id: "1",
+      name: "Off Shoulder Wedding Dress",
+      category: "Dresses",
+      image: "/Images/offshoulder_wedding.jpg",
+      brand: "Big Brand",
+      rating: "4.5",
+      numReviews: "10",
+      description: "Women full sleve black off shoulder Wedding dress",
+    },
+    {
+      id: "2",
+      name: "Convertible Wedding Dress",
+      category: "Dresses",
+      image: "/Images/convertible_weddingdress_pink.jpg",
+      brand: "Infinity",
+      rating: "4.8",
+      numReviews: "13",
+      decription: "Women Convert to any dress wedding dress",
+    },
+    {
+      id: "3",
+      name: "Club Night Mini dress",
+      category: "Dresses",
+      image: "/Images/women_mini_dress.jpg",
+      brand: "Gucci",
+      rating: "4.8",
+      numReviews: "13",
+      decription: "Night out Mini black dress",
+    },
+    {
+      id: "4",
+      name: "Formal Shirt",
+      category: "Shirts",
+      image: "/Images/women_shirt_grey.jpg",
+      brand: "Big Brand",
+      rating: "4.0",
+      numReviews: "17",
+      decription: "Women Formal Shirt",
+    },
+  ],
+};
+export default data;
